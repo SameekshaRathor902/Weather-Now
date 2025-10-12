@@ -1,2 +1,0 @@
-# Weather-Now
-The Weather Now – Smart Forecasting application is a dynamic, multilingual web tool offering real-time weather and a 5-day forecast for cities globally. Built on Python and Streamlit, the project prioritizes a visually engaging and intuitive user experience.
